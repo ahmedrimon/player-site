@@ -5,7 +5,7 @@ function App() {
   
   return (
     <div>
-      <h2>Here is Rimon</h2>
+      <h1>America</h1>
       
     </div>
   );
