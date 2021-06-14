@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
+  
   return (
-    <div className="App">
-      <h1>Team selection</h1>
+    <div>
+      <h2>Here is Rimon</h2>
+      
     </div>
   );
 }
