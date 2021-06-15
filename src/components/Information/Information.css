@@ -1,3 +1,9 @@
-img {
-    height: 200px;
+.information-container{
+    display: flex;
+}
+.player-container{
+    width: 70%;
+    margin-left: 60px;
+    margin-right: 80px;
+    border-right: 1px solid lightgray;
 }

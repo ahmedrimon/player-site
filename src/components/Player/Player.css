@@ -1,3 +1,14 @@
-div{
-    border: 1px solid lightcyan;
+.player {
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
 }
+.name {
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+img {
+    height: 300px;
+}
+
