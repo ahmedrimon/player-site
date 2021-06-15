@@ -1,24 +1,16 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
-import playersData from './data/db.json'
-
+import Information from './components/Information/Information';
 
 function App() {
-  const [players, setPlayers] = useState([]);
-  useEffect(() => {
-    setPlayers(playersData);
-    console.log(playersData);
-  }, [])
+
   return (
     <div>
       <Header></Header>
-      <ul>
-        {
-          players.map(player => <li>{player.name}</li>)
-        }
-      </ul>
-      <h2>This profile picture: {players.image}</h2>
+      <Information></Information>
+      
+      
     </div>
   );
 }

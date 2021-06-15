@@ -8,53 +8,53 @@
     "id": "02",
     "name": "olivier giroud",
     "salary": 200,
-    "image": "https://ibb.co/R3wjhMz"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Olivier_Giroud_2018.jpg"
   }, 
   {
     "id": "03",
     "name": "antonine griezmann",
     "salary": 300,
-    "image": "https://ibb.co/LCCmGZ9"
+    "image": "https://img.a.transfermarkt.technology/portrait/big/125781-1564143733.jpg?lm=1"
   }, 
   {
     "id": "04",
     "name": "n'golo kante",
     "salary": 400,
-    "image": "https://ibb.co/hLz2QZ2"
+    "image": "https://s.france24.com/media/display/851608d0-be26-11eb-9936-005056a98db9/w:1280/p:1x1/fe30203615ccb31b31f606b77ed0d49dd7f46204.jpg"
   }, 
   {
     "id": "05",
     "name": "paul pogba",
     "salary": 500,
-    "image": "https://ibb.co/9rhVZ19"
+    "image": "https://img.a.transfermarkt.technology/portrait/big/122153-1582114937.jpg?lm=1"
   }, 
   {
     "id": "06",
     "name": "hugo lloris",
     "salary": 600,
-    "image": "https://ibb.co/tcR8m1j"
+    "image": "https://i2-prod.football.london/incoming/article20210982.ece/ALTERNATES/s1200c/0_GettyImages-1307792489.jpg"
   }, 
   {
     "id": "07",
     "name": "lucas hernandez",
     "salary": 700,
-    "image": "https://ibb.co/SvcyZH1"
+    "image": "https://bayernstrikes.com/wp-content/uploads/getty-images/2017/07/1251049471.jpeg"
   }, 
   {
     "id": "08",
     "name": "ousmane dembele",
     "salary": 800,
-    "image": "https://ibb.co/ZGGhx42"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJCRaVow0wsTG6bBssmb4BA9_UmUg9P8V2g&usqp=CAU"
   }, 
   {
     "id": "09",
     "name": "benjamin pavard",
     "salary": 900,
-    "image": "https://ibb.co/FBy7yYT"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQweBqNk_YnN63IaV066d9y5Jhm6Q0lECSu7Q&usqp=CAU"
   }, 
   {
     "id": "10",
     "name": "kingsley coman",
     "salary": 1000,
-    "image": "https://ibb.co/wpYv9BT"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3PMucTFJX87_Eg2toT2XXDgUaVu152P8aA&usqp=CAU"
   }]
